@@ -1,4 +1,5 @@
-﻿1.Change "app.yaml.sample" to "app.yaml"
+﻿--------------------------------------
+1.Change "app.yaml.sample" to "app.yaml"
 2.Replace "Application: mlog " as "Application: <your Google App ID>"
 3.Upload micolog use "Google App Engine Launcher"
 -------------------------------------
